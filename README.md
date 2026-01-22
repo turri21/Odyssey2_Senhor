@@ -1,3 +1,8 @@
+=(Odyssey2_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 https://github.com/MiSTer-devel/Odyssey2_MiSTer - Didn't fork directly due to changes on local based repository
 
 
